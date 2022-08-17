@@ -1,0 +1,24 @@
+# Query: ursula Lopez
+# ContextLines: 1
+
+4 results - 4 files
+
+public/index.html:
+  3    <head>
+  4:     <title>Lindsey Pollan | Front-end Developer</title>
+  5      <meta charset="utf-8" />
+
+public/portfolio_shared_data.json:
+  2      "basic_info": {
+  3:       "name": "Lindsey Pollan",
+  4        "titles": [ "Software Developer" ],
+
+public/res_primaryLanguage.json:
+  3        "description_header": "Hi",
+  4:       "description": "👋 I'm Lindsey Pollan. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+  5        "section_name": {
+
+public/res_secondaryLanguage.json:
+  3        "description_header": "Cześć",
+  4:       "description": "👋 Jestem Lindsey Pollan. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+  5        "section_name": {
